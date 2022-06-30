@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.items {
+  list-style-type: none;
+  padding: 0;
+}
+
+.items__label {
+  display: inline-block;
+  padding-right: 5px;
+}
+
+.items__button {
+  display: block;
+  margin: 0 auto;
+}
